@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Clever Messenger</string>
+
+    <string name="main_button_send">Send</string>
+    <string name="chat_message_hint">Enter a message</string>
+    <string name="contacts_search_hint">Enter contact name or number</string>
+    <string name="contacts_search_to">To:</string>
+    <string name="menu_auto_reply_title">Auto-Reply</string>
+    <string name="empty_text">No messages</string>
+
+    <string name="api_key_key">api_key</string>
+    <string name="response_delay_key">response_delay</string>
+
+    <string name="toast_permissions_granted">Permissions granted!</string>
+    <string name="toast_permissions_denied">Permissions denied :(</string>
+    <string name="toast_invalid_input">Invalid contact or empty message</string>
+
+    <string name="content_description_send">Button to send message</string>
+</resources>

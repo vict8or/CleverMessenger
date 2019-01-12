@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_message_height">64dp</dimen>
+    <dimen name="list_item_message_max_width">250dp</dimen>
+    <dimen name="list_item_thread_height">80dp</dimen>
+    <dimen name="contacts_list_max_height">225dp</dimen>
+</resources>
